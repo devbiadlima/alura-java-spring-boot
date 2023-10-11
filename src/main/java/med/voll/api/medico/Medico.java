@@ -36,5 +36,6 @@ public class Medico {
         this.especialidade = dados.especialidade();
         this.endereço = new Endereco(dados.endereco());
     }
+
 }
 
